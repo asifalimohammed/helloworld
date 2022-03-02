@@ -11,7 +11,7 @@ public class HelloworldApplication {
 
 	@RequestMapping("/hello")
 	public String home() {
-		return "Hello Docker World";
+		return "Welcome to Azure DevOps";
 	}
 
 	public static void main(String[] args) {
